@@ -3,6 +3,8 @@
 **imsharifix/imsharifix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![giphy](https://github.com/imsharifix/imsharifix/assets/114331083/d9afe318-5c34-4365-8564-0b64b42938c1)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
