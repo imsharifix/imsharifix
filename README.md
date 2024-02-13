@@ -7,7 +7,7 @@
  - Front End Developer
  - OMD Azad University (Software Engineering)
  - 2003 April 7
-#### My Tools :
+## Skills :
 <p>
 
 <a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg"></a>
@@ -23,11 +23,19 @@
 </p>
 
 
+
+
 ##### More About Me :)
+<img src="https://github.com/imsharifix/imsharifix/blob/main/8dfb81120147773.60ac1dfdb4c2c.gif?raw=true" width="400" height="450"/>
 When I  Find That People Can Frustrate Me, I Founded My love For Computers And After That, I am Very Happy Because The Computer Never Frustrate You And Always Do The Best of Itself If You Do the Right Thing, The Computer Do it Correctly, As You Expect And Thats The reason Im a Computer Engineer.
 
-<img src="https://github.com/imsharifix/imsharifix/assets/114331083/c13dc8e4-71d1-4e3f-b74c-1ac2ed2a9a31" width="400" height="300"/>
+Socials :
 
+<p>
+
+<a href="https://t.me/bardiasharifix/"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg"></a>
+<a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"></a>
+</p>
 
 
 
