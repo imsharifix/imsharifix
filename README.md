@@ -1,6 +1,6 @@
 ### Hi there
   
-<img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="450" height="350"/>
+<img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="650" height="350"/>
 
 ## Who i am ? <img width="25" height="25" src="https://em-content.zobj.net/source/apple/354/cowboy-hat-face_1f920.png">
 - Bardia Sharifi
