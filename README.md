@@ -31,14 +31,15 @@ When I  Find That People Can Frustrate Me, I Founded My love For Computers And A
 
 ## Books I Read :
 <p>
-<a href="https://t.me/bardiasharifix/"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg"></a>
-<a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"></a>
+<a href=""><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true"></a>
+<a href="#"><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true"></a>
+  <a href="#"><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true"></a>
 </p>
 Socials :
 
 <p>
-<a href="https://t.me/bardiasharifix/"><img  width="50" height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg"></a>
-<a href="#"><img  width="50" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"></a>
+<a href="https://t.me/bardiasharifix"><img  width="50" height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg"></a>
+<a href="https://www.linkedin.com/in/bardia-sharifi-110a07263/"><img  width="50" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"></a>
 </p>
 
 
