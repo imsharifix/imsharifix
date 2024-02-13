@@ -7,18 +7,22 @@
 - Bardia Sharifi
  - Front End Developer
  - OMD Azad University (Software Engineering)
- - 
+ - 2003 April 7
 #### My Tools :
 <p>
 
 <a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg"></a>
 <a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg"></a>
-<a href="#"><img  width="60" height="60" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sass.svg"></a>
-<a href="#"><img  width="55" height="55" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bootstrap.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/figma.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bash.svg"></a>
-<a href="#"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/opensource.svg"></a>
+<a href="#"><img  width="56" height="56" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sass.svg"></a>
+<a href="#"><img  width="53" height="53" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bootstrap.svg"></a>
+<a href="#"><img  width="53" height="53" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg"></a>
+<a href="#"><img  width="51" height="51" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg"></a>
+<a href="#"><img  width="53" height="53" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg"></a>
+<a href="#"><img  width="50" height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/figma.svg"></a>
+<a href="#"><img  width="50" height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bash.svg"></a>
+<a href="#"><img  width="50" height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/opensource.svg"></a>
 </p>
+
+
+##### More About Me :)
+
