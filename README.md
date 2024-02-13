@@ -3,7 +3,7 @@
 <img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="550" height="350"/>
 </p>
 
-### Who i am ? <img width="25" height="25" src="https://em-content.zobj.net/source/apple/354/cowboy-hat-face_1f920.png">
+### Who am i ? <img width="25" height="25" src="https://em-content.zobj.net/source/apple/354/cowboy-hat-face_1f920.png">
 - Bardia Sharifi
  - Front End Developer
  - OMD Azad University (Software Engineering)
@@ -33,8 +33,8 @@
 </p>
 When I  Find That People Can Frustrate Me, I Founded My love For Computers And After That, I am Very Happy Because The Computer Never Frustrate You And Always Do The Best of Itself If You Do the Right Thing, The Computer Do it Correctly, As You Expect And Thats The reason Im a Computer Engineer.
 
-## Books I Read :
-<p>
+## Books I Read:
+<p align="center">
 <a href=""><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true"></a>
 <a href="#"><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true"></a>
   <a href="#"><img  width="150" height="200" src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true"></a>
