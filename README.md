@@ -1,7 +1,6 @@
 ### Hi there
   
-![ef16e4e68b0d3cb81e6bb8a8c3258d7e](https://github.com/imsharifix/imsharifix/assets/114331083/c13dc8e4-71d1-4e3f-b74c-1ac2ed2a9a31)
-
+<img src="https://github.com/imsharifix/imsharifix/assets/114331083/c13dc8e4-71d1-4e3f-b74c-1ac2ed2a9a31" width="400" height="300"/>
 
 ## Who i am ? <img width="25" height="25" src="https://em-content.zobj.net/source/apple/354/cowboy-hat-face_1f920.png">
 - Bardia Sharifi
@@ -25,4 +24,10 @@
 
 
 ##### More About Me :)
+When I  Find That People Can Frustrate Me, I Founded My love For Computers And After That, I am Very Happy Because The Computer Never Frustrate You And Always Do The Best of Itself If You Do the Right Thing, The Computer Do it Correctly, As You Expect And Thats The reason Im a Computer Engineer.
+
+<img src="https://github.com/imsharifix/imsharifix/assets/114331083/c13dc8e4-71d1-4e3f-b74c-1ac2ed2a9a31" width="400" height="300"/>
+
+
+
 
