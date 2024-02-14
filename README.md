@@ -1,6 +1,6 @@
 ### Hi there 🖐
 <p align="center">
-<img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="550" height="350"/>
+<img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="550" height="370"/>
 </p>
 
 ### Who am i ? <img width="25" height="25" src="https://em-content.zobj.net/source/apple/354/cowboy-hat-face_1f920.png">
