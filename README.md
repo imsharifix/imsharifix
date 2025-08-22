@@ -25,11 +25,12 @@
         🌌 Interests: astronomy, sports, friends
       </td>
       <td>
-        <img src="YOUR_IMAGE_URL_HERE" width="200" style="border-radius: 15px; border: 4px solid; border-image: linear-gradient(90deg,#00f,#0ff,#0f0,#ff0,#f00) 1;"/>
+        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" style="border-radius: 15px; border: 4px solid; border-image: linear-gradient(90deg,#00f,#0ff,#0f0,#ff0,#f00) 1;"/>
       </td>
     </tr>
   </table>
 </details>
+![20210210205046_IMG_0452](https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3)
 
 ---
 
