@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bardia</h1>
-<h3 align="center">Front-End Developer | Software Engineering Student</h3>
+<h3 align="center">Front-End Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="500"/>
@@ -8,12 +8,18 @@
 ---
 
 <details>
-  <summary><b>👤 About Me</b></summary>
+  <summary><b>👨‍💻 About Me</b></summary>
   <br>
-  - 🎓 Software Engineering student at OMD Azad University  
-  - 💻 Passionate about building modern, responsive web apps  
-  - ⚡ Love working with clean code and minimal design  
-  - 🎯 Born: April 7, 2003  
+  I'm a passionate software engineer who thrives on building clean and efficient code.  
+  I love exploring new technologies and pushing myself to craft high-quality applications.  
+
+  🔐 I value privacy and security deeply, and have contributed to multiple audits and bug bounty programs.  
+
+  🏁 Hackathons and coding competitions are my playground — a place to learn fast, innovate, and sometimes win.  
+
+  🖥️ I maintain a small homelab to experiment with system administration and self-hosted projects.  
+
+  🌌 Outside of coding, I enjoy astronomy, sports, and spending quality time with friends.  
 </details>
 
 ---
@@ -56,3 +62,15 @@
     <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" width="40"/>
   </a>
 </p>
+
+---
+
+<details>
+  <summary><b>📚 Books I Read</b></summary>
+  <br>
+  <p align="center">
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true" width="150"/></a>
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true" width="150"/></a>
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true" width="150"/></a>
+  </p>
+</details>
