@@ -13,30 +13,22 @@
   <table>
     <tr>
       <td>
-        Passionate software engineer focused on writing clean, efficient code.  
-        I love exploring new technologies, building real-world projects, and solving challenges.  
+        I build intuitive, responsive web applications using modern front-end technologies.  
+        I enjoy turning complex problems into elegant solutions, experimenting with new frameworks, and optimizing user experiences.  
         <br><br>
-        🔐 Privacy & security aware  
+        🔐 Focused on secure and reliable code  
         <br>
-        🏁 Hackathons & coding competitions enthusiast  
+        🏁 Competitive coding & hackathons  
         <br>
-        🖥️ Homelab & self-hosted projects  
+        🖥️ Homelab experiments & self-hosted projects  
         <br>
-        🌌 Interests: astronomy, sports, socializing with friends
+        🌌 Outside work: exploring tech, sports, and stargazing
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" height="300" style="border-radius: 15px; border: 4px solid; border-image: linear-gradient(90deg,#00f,#0ff,#0f0,#ff0,#f00) 1; animation: borderAnimation 5s linear infinite;"/>
+        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" height="300" style="border-radius: 15px; border: 4px solid #00f;"/>
       </td>
     </tr>
   </table>
-
-  <style>
-    @keyframes borderAnimation {
-      0% { border-image-source: linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00);}
-      50% { border-image-source: linear-gradient(90deg, #f00, #ff0, #0f0, #0ff, #00f);}
-      100% { border-image-source: linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00);}
-    }
-  </style>
 </details>
 
 ---
