@@ -13,24 +13,31 @@
   <table>
     <tr>
       <td>
-        Passionate software engineer with a focus on clean, efficient code.  
-        I love exploring new tech, building real-world projects, and solving challenges.  
+        Passionate software engineer focused on writing clean, efficient code.  
+        I love exploring new technologies, building real-world projects, and solving challenges.  
         <br><br>
-        🔐 Privacy & security conscious  
+        🔐 Privacy & security aware  
         <br>
         🏁 Hackathons & coding competitions enthusiast  
         <br>
         🖥️ Homelab & self-hosted projects  
         <br>
-        🌌 Interests: astronomy, sports, friends
+        🌌 Interests: astronomy, sports, socializing with friends
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" style="border-radius: 15px; border: 4px solid; border-image: linear-gradient(90deg,#00f,#0ff,#0f0,#ff0,#f00) 1;"/>
+        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" height="300" style="border-radius: 15px; border: 4px solid; border-image: linear-gradient(90deg,#00f,#0ff,#0f0,#ff0,#f00) 1; animation: borderAnimation 5s linear infinite;"/>
       </td>
     </tr>
   </table>
+
+  <style>
+    @keyframes borderAnimation {
+      0% { border-image-source: linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00);}
+      50% { border-image-source: linear-gradient(90deg, #f00, #ff0, #0f0, #0ff, #00f);}
+      100% { border-image-source: linear-gradient(90deg, #00f, #0ff, #0f0, #ff0, #f00);}
+    }
+  </style>
 </details>
-![20210210205046_IMG_0452](https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3)
 
 ---
 
@@ -81,8 +88,8 @@
   <summary><b>📚 Books I Read</b></summary>
   <br>
   <p align="center">
-    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true" width="150"/></a>
-    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true" width="150"/></a>
-    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true" width="150"/></a>
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true" width="150" height="200"/></a>
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true" width="150" height="200"/></a>
+    <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true" width="150" height="200"/></a>
   </p>
 </details>
