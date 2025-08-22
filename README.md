@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Bardia Sharifi</h1>
+<h1 align="center">Hi there 👋, I'm Bardia</h1>
 <h3 align="center">Front-End Developer | Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="550" height="370"/>
+  <img src="https://github.com/imsharifix/imsharifix/blob/main/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif?raw=true" width="500"/>
 </p>
 
 ---
 
-## 🚀 Skills  
+## 🚀 About Me
+- 🎓 Software Engineering student at OMD Azad University  
+- 💻 Passionate about building modern, responsive web apps  
+- ⚡ Love working with clean code and minimal design  
+- 🎯 Born: April 7, 2003  
+
+---
+
+## 🛠️ Skills
 
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,28 +42,18 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsharifix&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsharifix&theme=radical" alt="streak" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsharifix&layout=compact&theme=radical" alt="langs" height="150"/>
-</p>
+## 📊 GitHub Stats
+![Bardia's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsharifix&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsharifix&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://t.me/bardiasharifix"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/telegram.svg"></a>
-  <a href="https://www.linkedin.com/in/bardia-sharifi-110a07263/"><img  width="40" height="40" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin-icon.svg"></a>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=imsharifix&label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
+## 🌐 Connect with Me
+<p>
+  <a href="https://t.me/bardiasharifix">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/telegram.svg" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bardia-sharifi-110a07263/">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin-icon.svg" width="40"/>
+  </a>
 </p>
