@@ -25,7 +25,7 @@
         🌌 Outside work: exploring tech, sports, and stargazing
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="200" height="300" style="border-radius: 15px; border: 4px solid #00f;"/>
+        <img src="https://github.com/user-attachments/assets/b28f344c-587b-42b1-afd7-8364c0c4bca3" width="300" height="450" style="border-radius: 15px; border: 4px solid #00f;"/>
       </td>
     </tr>
   </table>
