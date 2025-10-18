@@ -83,5 +83,7 @@
     <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/C%20programming%20language.jpg?raw=true" width="150" height="200"/></a>
     <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/The%20clean%20coder.jpg?raw=true" width="150" height="200"/></a>
     <a href="#"><img src="https://github.com/imsharifix/imsharifix/blob/main/Code.jpg?raw=true" width="150" height="200"/></a>
+    <a href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/114331083/502875652-394889fe-9ae0-44d0-84b3-d2333ef56b86.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251018T135228Z&X-Amz-Expires=300&X-Amz-Signature=94819101b2b9d707ec922d75b9c8f455672d5a1cc7d20359e36f5ad52493e724&X-Amz-SignedHeaders=host" width="150" height="200"/></a>
+
   </p>
 </details>
